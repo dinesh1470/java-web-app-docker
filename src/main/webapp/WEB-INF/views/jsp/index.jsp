@@ -41,7 +41,7 @@
 	<div class="row">
 		<div class="col-md-8">
 			<h2>DINESHMANASA.</h2>
-			<h3>Contact @ +91-9908800219</h3>
+			<h3>Contact @ +91-800219</h3>
 		</div>	
 	</div>
 
